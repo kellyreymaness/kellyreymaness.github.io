@@ -12,7 +12,9 @@ I'm married and my husband and I have two dogs -- a Pitbull mix and a German She
 
 # Travel Photos
 
-https://raw.githubusercontent.com/kellyreymaness/kellyreymaness.github.io/master/images/arches.jpg
+```{r graphics,echo=FALSE}
+knitr::include_graphics("https://raw.githubusercontent.com/kellyreymaness/kellyreymaness.github.io/master/images/arches.jpg")
+```
 *Arches National Park*
 
 https://raw.githubusercontent.com/kellyreymaness/kellyreymaness.github.io/master/images/maroonbells.jpg
