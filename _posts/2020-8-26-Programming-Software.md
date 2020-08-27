@@ -1,0 +1,7 @@
+# R vs. SAS
+
+## Prior to taking ST 558, I had only ever used R in one other course many, many years ago. My previous use of R was fairly limited, but from what I recall, it seemed very user-friendly – mostly because it doesn’t require specific punctuation (a.k.a the dreaded semi-colon) to end statements and run programs. 
+
+Aside from R, the only other programming software I have any experience coding in is SAS. I’ve found SAS to be challenging in that the required use of the semi-colon has often tripped me up. One misplaced, or missed, or extra semi-colon can prevent a program from executing and it can be very difficult to spot a single character. This aside, I’d have to say SAS is my favorite statistical analysis tool – at least as this point – because I’ve had more exposure to it than to R. That familiarity, though sometimes frustrating, makes me more comfortable with the tool overall.
+
+I don’t feel that the R language is tough to learn, but since it is relatively new to me, there’s a moderate learning curve. One of the things I love most about learning R, though seemingly generic, is that it is, in fact, “new.” It’s a tangible reminder that I’m developing a whole new skill set. Additionally, learning the markdown language has been cool. It’s especially useful to be able to write the technical components of programs (i.e. R code) while simultaneously jazzing up the output (i.e. text formatting). 
