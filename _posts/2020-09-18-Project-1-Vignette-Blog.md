@@ -2,7 +2,7 @@
 # Project 1 Vignette
 ---
 
-The vignette created for Project 1 walks through various steps on how to access, manipulate and analyze NHL Records and Stats data. Specifically, the steps include: 
+The vignette created for Project 1 walks through various steps on how to access, manipulate and analyze NHL Records and Stats data. Specifically, the steps include:  
 *Reading in data via an API  
 *Writing functions to automate the process of utlizing APIs for data  
 *Manipulating and reshaping data by adding new variables and joining two datasets, respectively  
