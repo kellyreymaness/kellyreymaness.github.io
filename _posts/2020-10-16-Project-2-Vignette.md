@@ -1,4 +1,4 @@
-title: Project 2 Vignette
+# Project 2 Vignette
 
 I had much easier time getting started and moving through Project 2 material at a quicker pace than I did with the first project. I had a tough time with the syntax of APIs early in the first project so I was anticipating some difficulties early in. However, I felt that I had a better understanding of how to conceptually approach project 2 as well as more technically capable early on. I used the GGally package to plot all of the predictors against the response in order to determine what, if any, relationship appeared to exist. For predictors exhibiting the strongest correlations with the response, I opted to incorporate those into the models. Using the "rpart" and "gbm" method nested within the train() function, I fit a regression tree model and a boosted tree model. From a grid of possible values, the tuning parameters were selected using leave-one-out cross validation and standard cross validation. 
 
